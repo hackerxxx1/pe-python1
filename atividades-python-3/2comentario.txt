@@ -1,0 +1,5 @@
+# Disciplina: Probabilidade e Estatística
+# Aluno: gabriel rodrigues da silva
+# Lista 6
+
+no caso da questão 2 o coeficiente de 0,207 a correlação e totalmente desprezivel
